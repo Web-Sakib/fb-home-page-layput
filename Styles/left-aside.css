@@ -1,0 +1,25 @@
+
+
+main .left-aside {
+  background-color: brown;
+  width: 300px;
+  
+}
+
+.left-aside {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin: 20px;
+  padding: 5px;
+}
+
+.left-aside-block {
+ display: flex;
+ align-items: center;
+
+ gap: 10px;
+ background-color: aqua;
+
+ border-radius: 10px;
+}

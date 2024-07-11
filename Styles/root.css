@@ -1,0 +1,25 @@
+/* root styles */
+*{
+  /* margin: 0; */
+  /* padding: 0; */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+
+/*  */
+main img {
+ width: 30px;
+ height: 30px;
+}
+
+
+main {
+  display: flex;
+  justify-content: space-between;
+}
+
+

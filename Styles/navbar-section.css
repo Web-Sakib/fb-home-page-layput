@@ -1,14 +1,8 @@
 
-/* root styles */
-*{
-  margin: 0;
-  padding: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
 
-button {
-  cursor: pointer;
-}
+
+
+
 
 /* main styles */
 
@@ -20,7 +14,10 @@ header nav {
   height: 60px;
 }
 
+
+
 /* left section styles */
+
 nav .left-section {
   display: flex;
   align-items: center;
@@ -42,13 +39,19 @@ nav .nav-search-box {
 }
 
 
+
+
 /* middle section styles */
+
 nav .middle-section {
   display: flex;
   gap: 10px;
 }
 
+
+
 /* right section styles */
+
 nav .right-section {
   margin-right: 20px;
   display: flex;
